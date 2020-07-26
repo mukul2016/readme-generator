@@ -1,4 +1,4 @@
-# MS
+# learntino
 
   ## Table of Contents
   * [Installation](#installation)
@@ -9,17 +9,17 @@
   * [Questions](#questions)
   
   ## Description
-  test
+  learntino.com
   ## Installation
-  node and npm
+  node npm
   ## Usage
   node index
   ## Credits
-  mukul
+  Mukul
   ## License
-  This application is covered wtih a MIT license
+  This application is covered wtih a MIT,ISC,GPL license
   ## Tests
   ## Questions
-  * Checkout my GitHub profile: https://github.com/learnantino
+  * Checkout my GitHub profile: https://github.com/mukul2016/readme-generator
   OR  
-  * Email me at: learnantino@email.com
+  * Email me at: learnantino.com

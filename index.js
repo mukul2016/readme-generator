@@ -84,14 +84,39 @@ const questions = [
   },
   // ## License
   {
-    type: 'input',
+    type: 'checkbox',
     name: 'license',
     message: 'Pls provide information on licensing? (Required)',
+    choices: [
+      'MIT',
+      'ISC',
+      'GPL',
+      'Apache License 2.0 (Apache-2.0)',
+      'Mozilla Public License 2.0 (MPL-2.0)'
+    ]
+  },
+  {
+    type: 'input',
+    name: 'github',
+    message: 'Enter the GitHub link to your project. (Required)',
     validate: nameInput => {
       if (nameInput) {
         return true
       } else {
-        console.log('Pls enter information on licensing!')
+        console.log('Please enter description of the project!')
+        return false
+      }
+    }
+  },
+  {
+    type: 'input',
+    name: 'email',
+    message: 'Enter the your email. (Required)',
+    validate: nameInput => {
+      if (nameInput) {
+        return true
+      } else {
+        console.log('Please enter your email!')
         return false
       }
     }

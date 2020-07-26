@@ -1,6 +1,15 @@
 // function to generate markdown for README
 function generateMarkdown (data) {
-  const { title, description, installation, usage, credits, license } = data
+  const {
+    title,
+    description,
+    installation,
+    usage,
+    credits,
+    license,
+    github,
+    email
+  } = data
 
   return `# ${data.title}
 
@@ -24,9 +33,9 @@ function generateMarkdown (data) {
   This application is covered wtih a ${license} license
   ## Tests
   ## Questions
-  * Checkout my GitHub profile: https://github.com/learnantino
+  * Checkout my GitHub profile: ${github}
   OR  
-  * Email me at: learnantino@email.com
+  * Email me at: ${email}
 `
 }
 

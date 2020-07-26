@@ -9,9 +9,9 @@
   * [Questions](#questions)
   
   ## Description
-  Genrates the readme.md file
+  This generates a readme.md file
   ## Installation
-  node npm
+  Node npm
   ## Usage
   node index
   ## Credits
@@ -22,4 +22,4 @@
   ## Questions
   * Checkout my GitHub profile: https://github.com/mukul2016/readme-generator
   OR  
-  * Email me at: lernantino@email.com
+  * Email me at: name@email.com

@@ -9,17 +9,17 @@
   * [Questions](#questions)
   
   ## Description
-  This generates a readme.md file
+  Genrates the readme.md file
   ## Installation
   node npm
   ## Usage
-  node index.js
+  node index
   ## Credits
   Mukul
   ## License
-  This application is covered wtih a MIT,ISC,GPL,Mozilla Public License 2.0 (MPL-2.0) license
+  This application is covered wtih a MIT,Mozilla Public License 2.0 (MPL-2.0) license
   ## Tests
   ## Questions
   * Checkout my GitHub profile: https://github.com/mukul2016/readme-generator
   OR  
-  * Email me at: learnantino@email.com
+  * Email me at: lernantino@email.com

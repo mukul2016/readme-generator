@@ -1,4 +1,4 @@
-# MS
+# Readme Generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Table of Contents
   * [Installation](#installation)
@@ -9,11 +9,11 @@
   * [Questions](#questions)
   
   ## Description
-  learnantino
+  This generates a readme.md file
   ## Installation
   node npm
   ## Usage
-  node index
+  node index.js
   ## Credits
   Mukul
   ## License
@@ -22,4 +22,4 @@
   ## Questions
   * Checkout my GitHub profile: https://github.com/mukul2016/readme-generator
   OR  
-  * Email me at: learnantino@mail.com
+  * Email me at: learnantino@email.com

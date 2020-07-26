@@ -17,7 +17,7 @@
   ## Credits
   Mukul
   ## License
-  This application is covered wtih a MIT,Apache License 2.0 (Apache-2.0),Mozilla Public License 2.0 (MPL-2.0) license
+  This application is covered wtih a MIT,Mozilla Public License 2.0 (MPL-2.0) license
   ## Tests
   ## Questions
   * Checkout my GitHub profile: https://github.com/mukul2016/readme-generator

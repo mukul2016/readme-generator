@@ -15,7 +15,7 @@
   ## Usage
   node index
   ## Credits
-  mukul
+  Mukul
   ## License
   This application is covered wtih a MIT,ISC,GPL,Mozilla Public License 2.0 (MPL-2.0) license
   ## Tests

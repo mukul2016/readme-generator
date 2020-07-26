@@ -136,7 +136,7 @@ function init () {
   inquirer.prompt(questions).then(readmeData => {
     const data = generateMarkdown(readmeData)
     console.log(data)
-    writeToFile('./outdir/readme.md', data)
+    writeToFile('./dist/readme.md', data)
   })
 }
 // function call to initialize program
